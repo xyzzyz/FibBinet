@@ -35,4 +35,4 @@ binetFib = floor . rationalPart . binetFib'
 
 main = do
   ns <- getArgs
-  mapM_ (putStrLn . show . binetFib) (map read  ns)
+  mapM_ (putStrLn . show . binetFib . read) ns
