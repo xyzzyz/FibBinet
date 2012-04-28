@@ -1,0 +1,18 @@
+* FibBinet
+** what is it?
+   computes n-th fibonacci number using Binet's formula
+** is it any good?
+   sure, it works for abitrarily large numbes
+** usage
+   ./FibBinet n...
+
+   for instance
+
+   $ ./FibBinet 10 100
+   55
+   354224848179261915075
+
+** license
+   do with it whatever you want
+** author
+   Adam Michalik <adamm@mimuw.edu.pl>
