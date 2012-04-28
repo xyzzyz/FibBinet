@@ -4,7 +4,9 @@
 ** is it any good?
    sure, it works for abitrarily large numbes
 ** usage
+   #+BEGIN_EXAMPLE
    ./FibBinet n...
+   #+END_EXAMPLE
 
    for instance
 
