@@ -1,4 +1,4 @@
-* FibBinet1
+* FibBinet
 ** what is it?
    computes n-th fibonacci number using Binet's formula
 ** is it any good?
